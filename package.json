@@ -1,6 +1,6 @@
 {
   "name": "mali-condition-test",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Utility middleware condition test function",
   "main": "index.js",
   "repository": {
