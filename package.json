@@ -1,7 +1,7 @@
 {
   "name": "mali-condition-test",
   "version": "0.0.0",
-  "description": "Conditionally add Mali middleware",
+  "description": "Utility middleware condition test function",
   "main": "index.js",
   "repository": {
     "type": "git",
