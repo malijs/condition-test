@@ -1,4 +1,4 @@
-const CallType = require('mali-call-types')
+const CallType = require('@malijs/call-types')
 const values = require('lodash.values')
 
 const TYPE_VALUES = values(CallType)
